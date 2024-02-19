@@ -4,7 +4,7 @@ A classic snake game with a simple reward-based AI, written in C++ using the ray
 
 ## Demo
 
-https://github.com/alexganea7/Simple-AI-Snake-Game-Using-Raylib/assets/138498475/c6ae3e2a-9fda-4b51-93a2-42b9c5eba8f6
+![snake ai demo](https://github.com/alexganea7/Simple-AI-Snake-Game-Using-Raylib/assets/138498475/ea686eb2-d9d8-411e-9ff3-1942aab97a71)
 
 ## Build
 
